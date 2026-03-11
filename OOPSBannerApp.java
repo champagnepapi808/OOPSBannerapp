@@ -5,7 +5,7 @@
  * ASCII art via decomposed static pattern generator methods for O, P, and S.
  *
  * @author Vidyut Singh Baruah
- * @version 2.0
+ * @version 6.0
  */
 public class OOPSBannerApp {
     public static void main(String[] args) {
