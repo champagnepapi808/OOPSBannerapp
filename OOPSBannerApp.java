@@ -5,7 +5,7 @@
  * ASCII art composed of '*' and spaces in a 7-line format.
  *
  * @author Vidyut Singh Baruah
- * @version 4.0
+ * @version 5.0
  */
 public class OOPSBannerApp {
     public static void main(String[] args) {
