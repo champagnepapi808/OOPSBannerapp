@@ -4,7 +4,7 @@
  * This class demonstrates a simple Java application that outputs OOPS as
  * ASCII art composed of '*' and spaces in a 7-line format.
  *
- * @author Developer
+ * @author Vidyut Singh Baruah
  * @version 2.0
  */
 public class OOPSBannerApp {
